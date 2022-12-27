@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @waternine9
+- 👀 I’m interested in ... Physics and graphics
+- 🌱 I’m currently learning ... OpenGL and physics
+- 💞️ I’m looking to collaborate on ... nothing
+- 📫 How to reach me ... saalty#4186
