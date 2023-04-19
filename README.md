@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Xx_SaltMaster_xX
+- 👋 Hi, I’m a 14 year old programmer.
 - 👀 I’m interested in ... OS development and graphics programming
 - 🌱 I’m currently learning ... Too much
 - 💞️ I’m looking to collaborate on ... BananaOS
