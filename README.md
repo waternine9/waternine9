@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @waternine9
-- 👀 I’m interested in ... Physics and graphics
-- 🌱 I’m currently learning ... OpenGL and physics
-- 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ... saalty#4186
+- 👋 Hi, I’m Xx_SaltMaster_xX
+- 👀 I’m interested in ... OS development and graphics programming
+- 🌱 I’m currently learning ... Too much
+- 💞️ I’m looking to collaborate on ... BananaOS
+- 📫 How to reach me ... saalty#4186 on discord
